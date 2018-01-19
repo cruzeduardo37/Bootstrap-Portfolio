@@ -1,0 +1,91 @@
+.contentarea {
+	width:1000px;
+	margin:auto;
+	position:relative;
+	background-color:lightgrey;
+	clear:both;
+}
+
+.nav:hover {
+	float:right;	
+	background:blue;
+	font-size: 16px;
+	margin-right:100px;
+	clear:both;
+	position:relative;
+	color:black;
+	
+}
+
+.name {
+	clear:both;
+	background:#4aaaa5;
+	padding:30px;
+	margin-left:100px;
+	color:white;
+	float: left;
+	position:fixed;
+}
+
+
+
+
+.aboutme {
+	padding-top: 80px;
+	float:center;
+	clear:both;
+}
+
+.container {
+	clear:both;
+	background:white;
+	margin:auto;
+	width:800px;
+	display:block;
+	float:center;
+	margin-left:100px;
+	margin-bottom: 300px
+
+}
+
+p {
+	font-size:16px;
+	text-indent:2.0em;
+	line-height:40px;
+}
+
+.mypic {
+	
+	width:300px;
+}
+
+.mypic:hover {
+	width:600px;
+}
+
+
+.boldH {
+	font-size:30px;
+}
+
+.connectme {
+
+	font-size:36px;
+	
+}
+
+.contact {
+	color:#4aaaa5;
+	margin-left:100px;
+}
+
+.message {
+	height:300px;
+}
+
+footer {
+	background:darkgrey;
+	height:50px;
+	text-align:center;
+	font-size:16px;
+}
